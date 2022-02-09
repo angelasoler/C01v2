@@ -6,7 +6,7 @@
 /*   By: asoler <asoler@student.42sp.org.br>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/08 18:36:46 by asoler            #+#    #+#             */
-/*   Updated: 2022/02/09 14:09:45 by asoler           ###   ########.fr       */
+/*   Updated: 2022/02/09 14:22:45 by asoler           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,5 +19,5 @@ int	ft_strlen(char *str)
 	{
 		index++;
 	}
-	return(index);
+	return (index);
 }
