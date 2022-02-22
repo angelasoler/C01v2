@@ -1,6 +1,6 @@
-# C01v2
+<h1 align="center">
+  # C01v2
+ </h1>
 Final delivery c01 challenge
 
-Pointers that receive with differents data types, differences beetewn arrays of chars and *char
-
-wip readme
+Pointers with differents data types, using arrays of chars and char pointers.
