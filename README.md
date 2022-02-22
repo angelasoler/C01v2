@@ -3,4 +3,5 @@
  </h1>
 Final delivery c01 challenge
 
-Pointers with differents data types, using arrays of chars and char pointers.
+- Pointers.
+- Arrayss of chars and char pointers.
